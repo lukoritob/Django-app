@@ -1,1 +1,1 @@
-# Django-app
+# Polling App
